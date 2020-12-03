@@ -1,2 +1,19 @@
-Body (margin:0; padding:0;
+body {
+  color: white;
+  background-color: silver;
+}
+
+h1 {
+  color: #ffffff;
+  background-color: transparent;
+}
+
+p {
+  color: #ff0000;
+  background-color: transparent;
+}
+
+strong {
+  color: red;
+  background-color: yellow;
 }
