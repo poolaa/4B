@@ -1,1 +1,32 @@
+body {
+color; black
+background-color; silver
+text-align; center
+}
 
+p {
+color; yellow
+background-color; gray
+text-align; center
+}
+
+h1 {
+    color; blue
+    background-color; black
+    text-align; center
+}
+
+h2 {
+    color; blue
+    background-color; black
+    text-align; center
+}
+
+Caption {
+    color; violet
+    background-color; white
+}
+
+table {
+    color; silver
+    background-color; black
